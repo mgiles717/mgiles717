@@ -1,8 +1,8 @@
 - MComp Computing Sciences Graduate from UEA 
 - Algorithms
-- Interests in Cyber Security, AI, ML and Statistics.
+- Interests in SoftDev, AI, ML, Cyber Security and Statistics.
 - Bioinformatic interests: Anything structural bioinformatics. Protein structure prediction, protein-protein interactions and protein-function
-- **Currently working on Data Sci projects: Weather API Visualisation** 
+- **Currently working on Data Sci projects: Fast API, Dash Apps** 
 - Languages: Python, Java, C++, C, R, JS, MATLAB
 - I will learn Rust I promise + Working on improving C++ skills
 
