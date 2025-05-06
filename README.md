@@ -1,4 +1,5 @@
-- MComp Computing Sciences Graduate from UEA 
+- MComp Computing Sciences Graduate from UEA
+- Currently learning about networking
 - Algorithms
 - Interests in SoftDev, AI, ML, Cyber Security and Statistics.
 - Bioinformatic interests: Anything structural bioinformatics. Protein structure prediction, protein-protein interactions and protein-function
