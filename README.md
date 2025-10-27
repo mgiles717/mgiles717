@@ -1,5 +1,5 @@
 - MComp Computing Sciences Graduate from UEA
-- **Currently working on networking and C/Zig/Go projects**
+- **Learning Go/Scala/Zig** in that order, but for different reasons
 - On the backend grind
 - Algorithms
 - Focusing on learning Go at a more proficient level, but learning Zig for fun.
