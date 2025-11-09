@@ -1,11 +1,11 @@
 - MComp Computing Sciences Graduate from UEA, full time Software Developer
-- **Learning Go/Scala/Zig** in that order, but for different reasons
+- **Learning Go/Rust/Zig** in that order, but for different reasons
 - On the backend grind
 - Algorithms
 - Focusing on learning Go at a more proficient level, but learning Zig for fun.
 - Interests in SoftDev, AI, ML, Cyber Security and Statistics but trust me it's pretty much everything.
 - Bioinformatic interests: Anything structural bioinformatics. Protein structure prediction, protein-protein interactions and protein-function
-- Languages: Python, Typescript, Go, Java, C++, Zig, C, R, MATLAB (in order of competency)
+- Languages: Python, Typescript, Go, Java, C++, Rust, Zig, C, R, MATLAB (in order of competency)
 - Always eager to learn: OS and Architectures (low level), Cyber Security (especially Pen. Testing, Malware Analysis and Reverse Engineering) and Software Development.
 - Open to collaborations!
 
