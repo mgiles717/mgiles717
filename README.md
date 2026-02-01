@@ -1,4 +1,4 @@
-- MComp Computing Sciences Graduate from UEA, full time Software Developer
+- MComp Computing Sciences Graduate from UEA, full time Platform Engineer
 - **Learning Go/Rust/Zig** in that order, but for different reasons
 - On the backend grind
 - Algorithms
