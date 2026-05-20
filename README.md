@@ -9,4 +9,4 @@
 - Always eager to learn: OS and Architectures (low level), Cyber Security (especially Pen. Testing, Malware Analysis and Reverse Engineering) and Software Development.
 - Open to collaborations!
 
-- Extensive List of learning: Go for Backend, Scala for Backend+Data Eng, Zig for Low Level + Networks, dlt+dbt for Data Eng
+- Currently focusing on: Typescript, Zig, and learning the one million AWS services :)
