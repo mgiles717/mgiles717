@@ -1,12 +1,12 @@
-- MComp Computing Sciences Graduate from UEA, full time Platform Engineer
-- **Learning Go/Rust/Zig** in that order, but for different reasons
+- Full Time Platform Engineer, CompSci Graduate
+- **Learning Go and Zig**, but for different reasons
 - On the backend grind
 - Algorithms
 - Focusing on learning Go at a more proficient level, but learning Zig for fun.
-- Interests in SoftDev, AI, ML, Cyber Security and Statistics but trust me it's pretty much everything.
+- Interests in SoftDev, AI, ML, Cyber Security and Statistics but it's pretty much everything.
 - Bioinformatic interests: Anything structural bioinformatics. Protein structure prediction, protein-protein interactions and protein-function
-- Languages: Python, Typescript, Go, Java, C++, Rust, Zig, C, R, MATLAB (in order of competency)
-- Always eager to learn: OS and Architectures (low level), Cyber Security (especially Pen. Testing, Malware Analysis and Reverse Engineering) and Software Development.
-- Open to collaborations!
+- Languages: Python, Typescript, Go, Java, C++, Rust, Zig, C, R, MATLAB (in order)
+- Always eager to learn: OS and Architecture + System Design, Cyber Security (pen. testing, malware analysis and reverse engineering).
+- Open to collabs if the project is cool.
 
-- Currently focusing on: Typescript, Zig, and learning the one million AWS services :)
+- Currently focusing on: Typescript and Zig
